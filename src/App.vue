@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import TrafficLights from './components/TrafficLights.vue';
 import PedestrianTrafficLight from './components/PedestrianTrafficLight.vue';
-import { shallowRef, onMounted, Transition } from 'vue';
+import { shallowRef, onMounted } from 'vue';
 import { EnumTrafficColor } from './constants';
 
 const enum EnumTrafficInterval {
