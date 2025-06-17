@@ -41,8 +41,8 @@ const props = defineProps({
 }
 
 .base {
-    width: 350px;
-    height: 700px;
+    width: 250px;
+    height: 550px;
     background: rgb(1, 1, 5);
     background: linear-gradient(
         125deg,
@@ -63,8 +63,8 @@ h1 {
 }
 
 .circle {
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
     border-radius: 50%;
     background: slategrey;
 
@@ -85,8 +85,8 @@ h1 {
         rgba(223, 34, 21, 1) 56%,
         rgba(201, 112, 23, 1) 100%
     );
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
     border-radius: 50%;
     border-style: dotted;
     box-shadow: 0 0 25px brown;
@@ -101,8 +101,8 @@ h1 {
         rgba(232, 173, 32, 1) 56%,
         rgba(221, 222, 7, 1) 100%
     );
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
     border-radius: 50%;
     border-style: dotted;
     box-shadow: 0 0 25px rgb(231, 217, 12);
@@ -116,8 +116,8 @@ h1 {
         rgba(49, 153, 7, 1) 56%,
         rgba(132, 233, 12, 1) 100%
     );
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
     border-radius: 50%;
     border-style: dotted;
     box-shadow: 0 0 25px rgb(40, 182, 47);

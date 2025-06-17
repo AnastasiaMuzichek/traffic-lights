@@ -38,7 +38,7 @@ watch(
                     emit('click');
                 }
                 timerId.value = 0;
-            }, 5000);
+            }, 7000);
         }
     }
 );
@@ -112,8 +112,8 @@ button:focus-visible {
 }
 
 .base-traff {
-    width: 350px;
-    height: 500px;
+    width: 250px;
+    height: 380px;
     background: rgb(1, 1, 5);
     background: linear-gradient(
         125deg,
